@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @luth-prog
-- 👀 I’m interested in become a programmer...
-- 🌱 I’m currently learning Python...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Ronin-luiz/Ronin-luiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Aula de Linguagem de Programação - Faculdade
+Repositório com exercicios da aula de linguagem de programação onde reazlizei diferentes atividades com foco em aprender a sintaxe da linguagem e pequenos projetos para prática.
+# Ferramentas
+# Linguagens
+* Python
+* C
+# Ferramentas
+* Jupiter Notebook
+* Visual Studio Code
